@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://synapse-digital-adv-app.com/
