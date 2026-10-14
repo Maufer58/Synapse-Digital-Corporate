@@ -12,12 +12,11 @@ Sito **corporate** (entità legale), distinto dalla landing prodotto **KINEVA FI
 
 - Nome legale: **SYNAPSE DIGITAL Advanced App Development**
 - Sede: Largo Molinetto n. 1, 20900 Monza (MB), Italia
+- Telefono: `+39 371 7364261`
 - P.IVA `14895130962` · D-U-N-S `302873219`
 - Email sul dominio: `info@…` e `support@…`
 - Privacy aziendale: `privacy.html`
 - Logo: `assets/logo-mark.svg` / `logo-horizontal.svg` (+ PNG)
-
-**Telefono:** non è ancora in pagina. Apple Organization spesso lo richiede: aggiungere un recapito reale in `#contact` prima dell’invio della verifica.
 
 ## Anteprima locale
 
