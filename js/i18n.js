@@ -35,7 +35,6 @@
       labelLegalName: "Ragione / nome",
       labelAddress: "Sede",
       labelVat: "Partita IVA",
-      labelCf: "Codice fiscale",
       labelDuns: "D-U-N-S",
       labelEmailInfo: "Email aziendale",
       labelEmailSupport: "Supporto / privacy",
@@ -44,7 +43,7 @@
       mailSupport: "Scrivi a support@",
       footerTag: "Advanced App Development",
       footerNote:
-        "SYNAPSE DIGITAL Advanced App Development — Largo Molinetto n. 1, 20900 Monza (MB), Italia — P.IVA 14895130962 — C.F. CGLLDN63L57F704R — D-U-N-S 302873219",
+        "SYNAPSE DIGITAL Advanced App Development — Largo Molinetto n. 1, 20900 Monza (MB), Italia — P.IVA 14895130962 — D-U-N-S 302873219",
       privacyTitle: "Informativa privacy (sito aziendale)",
       privacyMeta: "Versione 1.0 · Aggiornata ottobre 2026 · Lingua italiana",
     },
@@ -83,7 +82,6 @@
       labelLegalName: "Legal / trade name",
       labelAddress: "Registered address",
       labelVat: "VAT (P.IVA)",
-      labelCf: "Tax ID (C.F.)",
       labelDuns: "D-U-N-S",
       labelEmailInfo: "Company email",
       labelEmailSupport: "Support / privacy",
@@ -92,7 +90,7 @@
       mailSupport: "Email support@",
       footerTag: "Advanced App Development",
       footerNote:
-        "SYNAPSE DIGITAL Advanced App Development — Largo Molinetto n. 1, 20900 Monza (MB), Italy — VAT 14895130962 — Tax ID CGLLDN63L57F704R — D-U-N-S 302873219",
+        "SYNAPSE DIGITAL Advanced App Development — Largo Molinetto n. 1, 20900 Monza (MB), Italy — VAT 14895130962 — D-U-N-S 302873219",
       privacyTitle: "Privacy notice (company website)",
       privacyMeta: "Version 1.0 · Updated October 2026 · English",
     },

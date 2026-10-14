@@ -347,13 +347,26 @@ section {
 }
 
 .product-link span {
+  display: block;
   color: var(--muted);
   font-size: 0.95rem;
+}
+
+.product-link .product-url {
+  margin-top: 0.35rem;
+  color: var(--teal-deep);
+  font-weight: 700;
+  font-size: 0.92rem;
+  word-break: break-all;
 }
 
 .product-link .arrow {
   font-size: 1.4rem;
   color: var(--teal-deep);
+}
+
+.product-cta-wrap {
+  margin: 1.1rem 0 0;
 }
 
 .legal-list {
